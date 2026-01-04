@@ -9,10 +9,10 @@ I am a Computer Science student at Rensselaer Polytechnic Institute (Class of 20
 
 ## Technical Skills:
 
-Programming: C, C++, Python, Bash, Java, MATLAB, VHDL, Node.js
-Embedded & Hardware: Arduino, Esp32, Raspberry Pi, LTspice, Vivado Design Studio, Intel Quartus
-Systems & Networking: Linux/POSIX syscalls, glibc networking, TCP/IP, Sockets
-Cybersecurity Tools: Hashcat, Aircrack-ng, DirBuster, Ghidra, Wireshark, Nmap
+Programming: C, C++, Python, Bash, Java, MATLAB, VHDL, Node.js\
+Embedded & Hardware: Arduino, Esp32, Raspberry Pi, LTspice, Vivado Design Studio, Intel Quartus\
+Systems & Networking: Linux/POSIX syscalls, glibc networking, TCP/IP, Sockets\
+Cybersecurity Tools: Hashcat, Aircrack-ng, DirBuster, Ghidra, Wireshark, Nmap\
 Development Tools: Git/GitHub, Eclipse, Unity, Microsoft Office
 
 ## Currently taking:
