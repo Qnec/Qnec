@@ -9,13 +9,11 @@ I am a Computer Science student at Rensselaer Polytechnic Institute (Class of 20
 
 ## Technical Skills:
 
-Languages: C, C++, Python, Java, Bash, VHDL
-
-Systems: Linux (Ubuntu, Debian), TCP/IP Networking, Git
-
-Hardware: Arduino, Raspberry Pi, Microcontrollers, FPGA (Vivado)
-
-Security: Network analysis, penetration testing, CTF competitions
+Programming: C, C++, Python, Bash, Java, MATLAB, VHDL, Node.js
+Embedded & Hardware: Arduino, Esp32, Raspberry Pi, LTspice, Vivado Design Studio, Intel Quartus
+Systems & Networking: Linux/POSIX syscalls, glibc networking, TCP/IP, Sockets
+Cybersecurity Tools: Hashcat, Aircrack-ng, DirBuster, Ghidra, Wireshark, Nmap
+Development Tools: Git/GitHub, Eclipse, Unity, Microsoft Office
 
 ## Currently taking:
 
@@ -28,4 +26,5 @@ Security: Network analysis, penetration testing, CTF competitions
 * Eta Kappa Nu (HKN) - IEEE Honor Society member
 * National Cyber League Fall 2024 - 108th place out of 8,487 competitors
 * Dean's List - Spring and Fall 2024, Spring and Fall 2025
+* Rensselaer Leadership Award
 * Contributor to open-source projects through Rensselaer Center for Open Source
